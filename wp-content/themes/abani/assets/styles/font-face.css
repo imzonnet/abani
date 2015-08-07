@@ -1,0 +1,42 @@
+@font-face{
+	font-family:'Raleway';src:url("../fonts/Raleway-Black.woff");
+	font-weight:900
+}
+@font-face{
+	font-family:'Raleway';src:url("../fonts/Raleway-Bold.woff");
+	font-weight:700
+}
+@font-face{
+	font-family:'Raleway';src:url("../fonts/Raleway-ExtraBold.woff");
+	font-weight:800
+}
+@font-face{
+	font-family:'Raleway';src:url("../fonts/Raleway-Light.woff");
+	font-weight:300
+}
+@font-face{
+	font-family:'Raleway';src:url("../fonts/Raleway-Medium.woff");
+	font-weight:500
+}
+@font-face{
+	font-family:'Raleway';src:url("../fonts/Raleway-Regular.woff")
+}
+@font-face{
+	font-family:'Roboto';src:url("../fonts/Roboto-Black.woff");
+	font-weight:900
+}
+@font-face{
+	font-family:'BallparkWeiner';src:url("../fonts/BallparkWeiner.woff")
+}
+@font-face{
+	font-family:'Lato';src:url("../fonts/Lato-Black.woff");
+	font-weight:900
+}
+@font-face{
+	font-family:'PlayfairDisplay';src:url("../fonts/PlayfairDisplay-Regular.woff")
+}
+@font-face {
+	font-family:'Glyphicons Halflings';
+	src:url(../fonts/glyphicons-halflings-regular.eot);
+	src:url(../fonts/glyphicons-halflings-regular.eot?#iefix) format("embedded-opentype"),url(../fonts/glyphicons-halflings-regular.woff) format("woff"),url(../fonts/glyphicons-halflings-regular.ttf) format("truetype"),url(../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular) format("svg")
+}

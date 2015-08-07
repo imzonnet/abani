@@ -1,0 +1,27 @@
+/*
+Theme Name:         Abani
+Theme URI:          http://nouthemes.com/wordpress/kysbag/
+Description:        Beautiful WordPress theme with Visual Composer intergrated, Woocommerce newest version compatiable.
+Version:            1.0
+Author:             Nouthemes
+Author URI:         http://nouthemes.com
+
+License:            MIT License
+License URI:        http://opensource.org/licenses/MIT
+Tags:               white, black
+*/
+@import url("assets/styles/font-awesome.min.css");
+@import url("assets/styles/minimal-menu.css");
+@import url("assets/styles/flat-form.css");
+@import url("assets/styles/bootstrap-slider.css");
+@import url("assets/styles/fancySelect.css");
+@import url("assets/styles/jquery.fancybox.css");
+@import url("assets/styles/responsive-tabs.css");
+@import url("assets/styles/allinone_bannerRotator.css");
+@import url("assets/styles/allinone_bannerWithPlaylist.css");
+@import url("assets/styles/perfect-scrollbar.min.css");
+@import url("assets/styles/font-face.css");
+@import url("assets/styles/normalize.css");
+@import url("assets/styles/bootstrap.css");
+@import url("assets/styles/styles.css");
+
